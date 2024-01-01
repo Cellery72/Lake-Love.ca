@@ -1,11 +1,11 @@
 ---
-title: Project Name
+title: "Hats & Toques"
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://place-hold.it/400x300
 alt: Keep Exploring
 
 caption:
-  title: Explore
+  title: "Hats & Toques"
   subtitle: Graphic Design
   thumbnail: https://place-hold.it/400x300
 ---

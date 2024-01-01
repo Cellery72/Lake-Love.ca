@@ -16,9 +16,9 @@ theme: #jekyll-agency
 url    : "https://Lake-Love.ca" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : "Lake Love"
+title      : "Lake-Love Co."
 email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
+description: "Lake-Love.ca is a lifestyle brand celebrating Canada's fresh water lakes and the state of relaxation they evoke. We're a small cottage country business, that designs and hand presses each piece we sell - ensuring unique one of a kind character!"
 author     : "Wendy Ellery"
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg

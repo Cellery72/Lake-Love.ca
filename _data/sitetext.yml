@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Lake Love is a lifestyle brand **celebrating Canada's fresh water lakes** and the state of relaxation they evoke. We're a **small cottage country business**, that designs and hand presses each piece we sell - ensuring unique one of a kind character!"
     section: about
 
   contact:

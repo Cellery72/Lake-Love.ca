@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : "Lake-Love Co."
 email      : lake-love@rogers.com #this is also the email contact forms will go to
-description: "Lake-Love.ca is a lifestyle brand celebrating Canada's fresh water lakes and the state of relaxation they evoke. We're a small cottage country business, that designs and hand presses each piece we sell - ensuring unique one of a kind character!"
+description: "Lake-Love.ca is a lifestyle brand celebrating Canada's fresh water lakes and the state of relaxation they evoke."
 author     : "Wendy Ellery"
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg

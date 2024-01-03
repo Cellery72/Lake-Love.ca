@@ -39,30 +39,30 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Inspiration to Inception"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Georgian Bay"
+        year: "1972"
+        desc: "Georgian Bay - where the love affair begins... and creativity continues!"
+        image: assets/img/timeline/gb.png
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Oastler Lake"
+        year: "1981"
+        desc: "Oastler Lake - an introduction to the calm waters of in-land lakes"
+        image: assets/img/timeline/oastler.png
         alt:
-      - title: "Jekyll Theme is created"
+      - title: "Horseshoe Lake"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+        desc: "Horseshoe Lake - where the mind, body, and soul are restored and refulled"
+        image: assets/img/timeline/horseshoe.png
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
+      - title: "Lake Life Co. established"
+        year: "2022"
         desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/ll-display.png
         alt:
         # you can enforce the alignment
         align: right
@@ -70,8 +70,14 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lake Love is a lifestyle brand **celebrating Canada's fresh water lakes** and the state of relaxation they evoke. We're a **small cottage country business**, that designs and hand presses each piece we sell - ensuring unique one of a kind character!"
+    text: "The Lake Love story"
+    body: "Welcome, I am **Wendy** - the creator behind Lake Love. Lake Love is a lifestyle brand celebrating Canada's fresh water lakes and the state of relaxation they evoke. 
+    
+
+    My father, a Bluenose, is the one that introduced me to the restorative effects of hearing, smelling and just being, near water when we cottaged on the shores of Georgian Bay. Later, with my own family, I discovered the beautiful in-land lakes of Muskoka and Parry Sound region for the relaxation to continue. Lake Love apparel is a way to carry that feeling with you no matter where you are.
+    
+    
+    All items are handmade and offer unique, one-of-a-kind character to each piece. I design and create from my small, home based studio in cottage country, on the shores of Georgian Bay - where Lake Love lives. Where is your Lake Love?"
     section: about
 
   contact:
@@ -94,7 +100,7 @@ en: &DEFAULT_EN
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/people/Lake-Loveca/61555113754730/
         icon: "fab fa-facebook-f"
       - url: https://www.instagram.com/lakelove2023/
         icon: "fab fa-instagram"

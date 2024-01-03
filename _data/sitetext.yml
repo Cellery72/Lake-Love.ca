@@ -46,20 +46,20 @@ en: &DEFAULT_EN
     events:
       - title: "Georgian Bay"
         year: "1972"
-        desc: "Georgian Bay - where the love affair begins... and creativity continues!"
+        desc: "Where the love affair begins... and creativity continues!"
         image: assets/img/timeline/gb.png
         alt:
       - title: "Oastler Lake"
         year: "1981"
-        desc: "Oastler Lake - an introduction to the calm waters of in-land lakes"
+        desc: "An introduction to the calm waters of in-land lakes"
         image: assets/img/timeline/oastler.png
         alt:
       - title: "Horseshoe Lake"
         year: "2019"
-        desc: "Horseshoe Lake - where the mind, body, and soul are restored and refulled"
+        desc: "Where the mind, body, and soul are restored and refulled"
         image: assets/img/timeline/horseshoe.png
         alt: image alt text
-      - title: "Lake Life Co. established"
+      - title: "Lake-Love Co. established"
         year: "2022"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/ll-display.png
@@ -74,10 +74,13 @@ en: &DEFAULT_EN
     body: "Welcome, I am **Wendy** - the creator behind Lake Love. Lake Love is a lifestyle brand celebrating Canada's fresh water lakes and the state of relaxation they evoke. 
     
 
-    My father, a Bluenose, is the one that introduced me to the restorative effects of hearing, smelling and just being, near water when we cottaged on the shores of Georgian Bay. Later, with my own family, I discovered the beautiful in-land lakes of Muskoka and Parry Sound region for the relaxation to continue. Lake Love apparel is a way to carry that feeling with you no matter where you are.
+    My father, a Bluenose, is the one that introduced me to the restorative effects of hearing, smelling and just being, near water as we cottaged on the shores of Georgian Bay. Later, with my own family, I discovered the beautiful in-land lakes of Muskoka and Parry Sound region for the relaxation to continue. Lake Love apparel is a way to carry that feeling with you no matter where you are.
     
     
-    All items are handmade and offer unique, one-of-a-kind character to each piece. I design and create from my small, home based studio in cottage country, on the shores of Georgian Bay - where Lake Love lives. Where is your Lake Love?"
+    All items are handmade and offer unique, one-of-a-kind character to each piece. I design and create from my home based studio in cottage country, on the shores of Georgian Bay - where Lake Love lives. 
+    
+
+    **Where is your Lake Love?**"
     section: about
 
   contact:
@@ -100,7 +103,7 @@ en: &DEFAULT_EN
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
-      - url: https://www.facebook.com/people/Lake-Loveca/61555113754730/
+      - url: https://facebook.com
         icon: "fab fa-facebook-f"
       - url: https://www.instagram.com/lakelove2023/
         icon: "fab fa-instagram"

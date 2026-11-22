@@ -11,6 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "Shop"
+      url: https://lake-love.square.site/
     - title: "Offerings"
       section: services
     - title: "Catalog"

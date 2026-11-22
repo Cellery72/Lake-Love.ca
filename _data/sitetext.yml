@@ -59,7 +59,7 @@ en: &DEFAULT_EN
         desc: "Where the mind, body, and soul are restored and refulled"
         image: assets/img/timeline/horseshoe.png
         alt: image alt text
-      - title: "Lake-Love Co. established"
+      - title: "Lake-Love established"
         year: "2022"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/ll-display.png
